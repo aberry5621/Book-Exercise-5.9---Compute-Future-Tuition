@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E28613441D92E9E3004620F4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613431D92E9E3004620F4 /* main.cpp */; };
+		E28613441D92E9E3004620F4 /* tuition_calculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613431D92E9E3004620F4 /* tuition_calculator.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		E28613401D92E9E3004620F4 /* Book Exercise 5.9 - Compute Future Tuition */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Book Exercise 5.9 - Compute Future Tuition"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E28613431D92E9E3004620F4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E28613431D92E9E3004620F4 /* tuition_calculator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tuition_calculator.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		E28613421D92E9E3004620F4 /* Book Exercise 5.9 - Compute Future Tuition */ = {
 			isa = PBXGroup;
 			children = (
-				E28613431D92E9E3004620F4 /* main.cpp */,
+				E28613431D92E9E3004620F4 /* tuition_calculator.cpp */,
 			);
 			path = "Book Exercise 5.9 - Compute Future Tuition";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E28613441D92E9E3004620F4 /* main.cpp in Sources */,
+				E28613441D92E9E3004620F4 /* tuition_calculator.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
